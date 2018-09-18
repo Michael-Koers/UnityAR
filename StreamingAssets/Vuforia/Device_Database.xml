@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card" size="1.000000 0.652000" />
+    <ImageTarget name="Cross" size="1.000000 0.862500" />
+    <ImageTarget name="Open_Left_Hand" size="1.000000 1.776923" />
+    <ImageTarget name="Closed_Left_Hand" size="1.000000 1.976190" />
+    <ImageTarget name="5Dots_100x100" size="1.000000 1.000000" />
+    <ImageTarget name="Coaster" size="1.000000 0.995000" />
+  </Tracking>
+</QCARConfig>
